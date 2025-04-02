@@ -1,6 +1,6 @@
 ## Hi there, I'm Velislav 👋
 - 📖 I'm currently studying at Software University.
-- 🌱 I’m currently learning: HTML & CSS and ReactJS
+- 🌱 I’m currently learning: ReactJS and Typescript
 
 
 
