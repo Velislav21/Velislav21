@@ -1,6 +1,6 @@
 ## Hi there, I'm Velislav 👋
 - 📖 I'm currently studying at Software University.
-- 🌱 I’m currently learning: ReactJS and Typescript
+- 🌱 I’m currently learning: React.js and Typescript
 
 ## Hosted Projects
 - [Full stack application for my project defense at SoftUni](https://ss-server-455514.web.app/shoes)
