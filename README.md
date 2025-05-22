@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning: React.js and Typescript
 
 ## Hosted Projects
+- [Full stack real-time chat application](https://chat-app-460418.web.app/)
 - [Full stack application for my project defense at SoftUni](https://ss-server-455514.web.app/shoes)
 - [Recipe application using Spoonacular API](https://recipes-server-458117.web.app)
 - [Cryptocurrencies catalog using CoinGecko API](https://crypto-currencies-dtbl.onrender.com)
